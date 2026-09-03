@@ -37,9 +37,11 @@ Com a aplicação rodando localmente, acesse no navegador:
    CREATE DATABASE financas_db;
 
 3. **Ajustes**
+   
    altere o arquivo: **src/main/resources/application.properties** com seu usuário e senhas locais do seu banco
 
-4. **Inicializar**
+5. **Inicializar**
+   
    Rode a classe ApiFinancasApplication.java pela IDE de sua preferência 😊
 
    
